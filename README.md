@@ -22,4 +22,14 @@ next_number: A function that accepts a list of integer values. All the elements 
 ### sample 4:
 [sample4](https://github.com/NourJardali/python_samples/blob/main/sample4.py) A program that asks the user to enter the price of a meal paid by a customer, then it prints the number of coupons offered to the customer.
 
+### sample 5:
+[sample5](https://github.com/NourJardali/python_samples/blob/main/sample5.py) A program that asks the user to enter the amount paid and original price of the meal and calculates the change to be returned to cuctomer.
 
+### sample 6:
+[sample6](https://github.com/NourJardali/python_samples/blob/main/sample6.py) A program that calculates total of price with discount.
+
+### sample 7:
+[sample7](https://github.com/NourJardali/python_samples/blob/main/sample7.py) A guess the number game program.
+
+### sample 8:
+[sample8](https://github.com/NourJardali/python_samples/blob/main/sample8.py) A program that calculates total price for each of the three customers.
