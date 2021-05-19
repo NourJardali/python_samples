@@ -33,3 +33,11 @@ next_number: A function that accepts a list of integer values. All the elements 
 
 ### sample 8:
 [sample8](https://github.com/NourJardali/python_samples/blob/main/sample8.py) A program that calculates total price for each of the three customers.
+
+### sample 9:
+[sample9](https://github.com/NourJardali/python_samples/blob/main/menu.py) A menu-driven program which gives the user the option to do one of the following tasks until the word 'exit' is enetered.
+1- Find the index of the word "csc" in a sentence entered by the user.
+2- Let the user enter a sentence: my#name#is#nour
+  Remove all the "#" in the sentence so that the output will be my name is nour.
+3- Enter a sentence, Find the occurrence of the word "csc" in any sentence.
+4- Enter any sentence, convert the first letter in each word in the sentence to the upper case.
