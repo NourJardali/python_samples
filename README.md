@@ -20,6 +20,6 @@ next_number: A function that accepts a list of integer values. All the elements 
 
 
 ### sample 4:
-[sample4](https://github.com/NourJardali/python_samples/blob/main/sample4.py] A program that asks the user to enter the price of a meal paid by a customer, then it prints the number of coupons offered to the customer.
+[sample4](https://github.com/NourJardali/python_samples/blob/main/sample4.py) A program that asks the user to enter the price of a meal paid by a customer, then it prints the number of coupons offered to the customer.
 
 
